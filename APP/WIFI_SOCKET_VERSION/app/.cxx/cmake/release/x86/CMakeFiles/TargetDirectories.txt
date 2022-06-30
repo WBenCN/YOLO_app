@@ -1,0 +1,3 @@
+D:/android_final/mask-android-yolov5-picture - WIFI/app/.cxx/cmake/release/x86/CMakeFiles/yolov5ncnn.dir
+D:/android_final/mask-android-yolov5-picture - WIFI/app/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+D:/android_final/mask-android-yolov5-picture - WIFI/app/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir

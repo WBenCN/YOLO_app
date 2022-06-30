@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\e8ddca436e7aecbfc8fb21fd1c8fb6a8\support-v4-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\8c913a9c861f7c6c2d9ee19369b26d33\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\c0f1da41acbf55eac22596c4fe750787\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\6d772a784c985a4bc74f4021c80beb80\support-media-compat-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\24ba4b2947ea895bb0ae09cf30a9f6d3\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\6ab247494d0b9f8ad2dfec46f28c0902\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\2b8ccbec29a60bb99b0cae8e1055be3f\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\c5fa5d8735f7172a5f495643d10e5fd6\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\1cc6ac7f53b4389a3e3c0ae4d4d28d7c\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\34afd2ad46a31f1344779e5479749e6b\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\60933f0a576351b4fca6cee703b4a750\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\d286474ebc093cd95c4d531251313578\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\4452e086938fb8b30a746b9f0250bdfc\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\645dc5acbd1cbabad7f59e3ec43ae292\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\65bc02f4151463492a2688bac1aef416\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\5d6328fbcedd95f85ca9c7a640f412a3\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\497a3c81af76ff2bb31425b3a21d1c4b\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\b01213bb755fba306451c485bb408abf\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\afb0bedb05667d608c5dda83aa0fb4a6\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\617ef99adef0c7bb6e6138f928a28cea\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\06b8234e89d2f2ab213e8263841f9457\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\bf616156a147aa3870b6d1652137304c\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\02b28302bc49e4dcbbab92808e0d40d9\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\1f87d0961a7edfc08ba04bee96c95139\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\ad4f6ad2898046744b5d57e0373090c3\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\eed2b635f0904cb1aafa846e4c432cb6\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\86e82b09e4484a9eb35bd62ca22341e5\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\64c3b7f055ae614d05de5f70e7dd73d7\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\4957d58e7439e930806d988302923d04\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml
+		INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml
+		INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml
+		INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:8:5-19:19
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\e8ddca436e7aecbfc8fb21fd1c8fb6a8\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\e8ddca436e7aecbfc8fb21fd1c8fb6a8\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\8c913a9c861f7c6c2d9ee19369b26d33\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\8c913a9c861f7c6c2d9ee19369b26d33\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\6d772a784c985a4bc74f4021c80beb80\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\6d772a784c985a4bc74f4021c80beb80\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\b01213bb755fba306451c485bb408abf\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\b01213bb755fba306451c485bb408abf\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\afb0bedb05667d608c5dda83aa0fb4a6\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\afb0bedb05667d608c5dda83aa0fb4a6\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\b01213bb755fba306451c485bb408abf\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:8:18-50
+activity#com.tencent.yolov5ncnn.MainActivity
+ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:9:9-17:20
+	android:label
+		ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:12:13-45
+	android:theme
+		ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:11:13-51
+	android:name
+		ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\e8ddca436e7aecbfc8fb21fd1c8fb6a8\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\e8ddca436e7aecbfc8fb21fd1c8fb6a8\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\8c913a9c861f7c6c2d9ee19369b26d33\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\8c913a9c861f7c6c2d9ee19369b26d33\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\c0f1da41acbf55eac22596c4fe750787\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\c0f1da41acbf55eac22596c4fe750787\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\6d772a784c985a4bc74f4021c80beb80\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\6d772a784c985a4bc74f4021c80beb80\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\24ba4b2947ea895bb0ae09cf30a9f6d3\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\24ba4b2947ea895bb0ae09cf30a9f6d3\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\6ab247494d0b9f8ad2dfec46f28c0902\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\6ab247494d0b9f8ad2dfec46f28c0902\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\2b8ccbec29a60bb99b0cae8e1055be3f\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\2b8ccbec29a60bb99b0cae8e1055be3f\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\c5fa5d8735f7172a5f495643d10e5fd6\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\c5fa5d8735f7172a5f495643d10e5fd6\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\1cc6ac7f53b4389a3e3c0ae4d4d28d7c\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\1cc6ac7f53b4389a3e3c0ae4d4d28d7c\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\34afd2ad46a31f1344779e5479749e6b\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\34afd2ad46a31f1344779e5479749e6b\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\60933f0a576351b4fca6cee703b4a750\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\60933f0a576351b4fca6cee703b4a750\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\d286474ebc093cd95c4d531251313578\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\d286474ebc093cd95c4d531251313578\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\4452e086938fb8b30a746b9f0250bdfc\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\4452e086938fb8b30a746b9f0250bdfc\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\645dc5acbd1cbabad7f59e3ec43ae292\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\645dc5acbd1cbabad7f59e3ec43ae292\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\65bc02f4151463492a2688bac1aef416\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\65bc02f4151463492a2688bac1aef416\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\5d6328fbcedd95f85ca9c7a640f412a3\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\5d6328fbcedd95f85ca9c7a640f412a3\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\497a3c81af76ff2bb31425b3a21d1c4b\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\497a3c81af76ff2bb31425b3a21d1c4b\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\b01213bb755fba306451c485bb408abf\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\b01213bb755fba306451c485bb408abf\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\afb0bedb05667d608c5dda83aa0fb4a6\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\afb0bedb05667d608c5dda83aa0fb4a6\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\617ef99adef0c7bb6e6138f928a28cea\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\617ef99adef0c7bb6e6138f928a28cea\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\06b8234e89d2f2ab213e8263841f9457\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\06b8234e89d2f2ab213e8263841f9457\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\bf616156a147aa3870b6d1652137304c\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\bf616156a147aa3870b6d1652137304c\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\02b28302bc49e4dcbbab92808e0d40d9\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\02b28302bc49e4dcbbab92808e0d40d9\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\1f87d0961a7edfc08ba04bee96c95139\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\1f87d0961a7edfc08ba04bee96c95139\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\ad4f6ad2898046744b5d57e0373090c3\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\ad4f6ad2898046744b5d57e0373090c3\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\eed2b635f0904cb1aafa846e4c432cb6\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\eed2b635f0904cb1aafa846e4c432cb6\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\86e82b09e4484a9eb35bd62ca22341e5\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\86e82b09e4484a9eb35bd62ca22341e5\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\64c3b7f055ae614d05de5f70e7dd73d7\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\64c3b7f055ae614d05de5f70e7dd73d7\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\4957d58e7439e930806d988302923d04\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\4957d58e7439e930806d988302923d04\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.1] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\e8ddca436e7aecbfc8fb21fd1c8fb6a8\support-v4-24.2.1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\WHBen\.gradle\wrapper\dists\gradle-6.5.1-all\caches\transforms-2\files-2.1\8c913a9c861f7c6c2d9ee19369b26d33\constraint-layout-2.0.4\AndroidManifest.xml:7:9-38
+	android:minSdkVersion
+		INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml
+		ADDED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml
+		INJECTED from D:\final_work\WIFI_SOCKET_VERSION\app\src\main\AndroidManifest.xml

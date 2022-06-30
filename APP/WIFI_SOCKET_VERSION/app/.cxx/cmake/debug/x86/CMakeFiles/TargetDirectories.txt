@@ -1,0 +1,3 @@
+C:/Users/WHBen/Desktop/Github/APP/WIFI_SOCKET_VERSION/app/.cxx/cmake/debug/x86/CMakeFiles/yolov5ncnn.dir
+C:/Users/WHBen/Desktop/Github/APP/WIFI_SOCKET_VERSION/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Users/WHBen/Desktop/Github/APP/WIFI_SOCKET_VERSION/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

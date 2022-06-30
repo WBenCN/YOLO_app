@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\arm64-v8a\\lib\\cmake\\OSDependentTargets.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\arm64-v8a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\arm64-v8a\\lib\\cmake\\glslangTargets.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\arm64-v8a\\lib\\cmake\\glslangTargets-release.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\arm64-v8a\\lib\\cmake\\SPIRVTargets.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\arm64-v8a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn-release.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Release-arm64-v8a": {
+      "artifactName": "yolov5ncnn",
+      "buildCommand": "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\.cxx\\cmake\\release\\arm64-v8a\" yolov5ncnn",
+      "abi": "arm64-v8a",
+      "output": "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libyolov5ncnn.so",
+      "runtimeFiles": []
+    }
+  }
+}

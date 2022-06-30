@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\final_work\\WIFI_SOCKET_VERSION\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\final_work\\WIFI_SOCKET_VERSION\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\final_work\\WIFI_SOCKET_VERSION\\app\\build\\intermediates\\res\\merged\\debug\\menu_bluetooth_list.xml.flat",
+        "source": "D:\\final_work\\WIFI_SOCKET_VERSION\\app\\src\\main\\res\\menu\\bluetooth_list.xml"
+    }
+]

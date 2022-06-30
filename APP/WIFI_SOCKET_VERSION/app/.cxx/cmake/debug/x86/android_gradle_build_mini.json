@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\x86\\lib\\cmake\\OSDependentTargets.cmake",
+    "C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\x86\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\x86\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\x86\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\x86\\lib\\cmake\\glslangTargets.cmake",
+    "C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\x86\\lib\\cmake\\glslangTargets-release.cmake",
+    "C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\x86\\lib\\cmake\\SPIRVTargets.cmake",
+    "C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\x86\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn-release.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Debug-x86": {
+      "artifactName": "yolov5ncnn",
+      "buildCommand": "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\.cxx\\cmake\\debug\\x86\" yolov5ncnn",
+      "abi": "x86",
+      "output": "C:\\Users\\WHBen\\Desktop\\Github\\APP\\WIFI_SOCKET_VERSION\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libyolov5ncnn.so",
+      "runtimeFiles": []
+    }
+  }
+}

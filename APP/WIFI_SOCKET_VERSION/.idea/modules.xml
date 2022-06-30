@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WIFI_SOCKET_VERSION.iml" filepath="$PROJECT_DIR$/.idea/modules/WIFI_SOCKET_VERSION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WIFI_SOCKET_VERSION.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WIFI_SOCKET_VERSION.app.iml" />
+    </modules>
+  </component>
+</project>

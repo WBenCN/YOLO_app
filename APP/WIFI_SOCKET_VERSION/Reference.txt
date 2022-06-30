@@ -1,0 +1,4 @@
+This project adopts the NCNN-YOLOv5 framework released by Tencent on CSDN, 
+and the communication part is assisted by Dr. Zeinstra, Chris.
+
+NCNN-YOLOv5 framework：https://github.com/Tencent/ncnn

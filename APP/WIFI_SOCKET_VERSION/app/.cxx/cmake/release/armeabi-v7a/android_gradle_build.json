@@ -1,0 +1,54 @@
+{
+  "stringTable": {
+    "0": "D:/android_final/mask-android-yolov5-picture - WIFI/app/.cxx/cmake/release/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi28 --gcc-toolchain=C:/Users/WHBen/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/WHBen/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolov5ncnn_EXPORTS -isystem \"D:/android_final/mask-android-yolov5-picture - WIFI/app/src/main/jni/ncnn-20210322-android-vulkan/armeabi-v7a/include/ncnn\" -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -Oz -DNDEBUG -fPIC -fno-rtti -fno-exceptions"
+  },
+  "buildFiles": [
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\armeabi-v7a\\lib\\cmake\\OSDependentTargets.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\armeabi-v7a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslangTargets.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslangTargets-release.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\armeabi-v7a\\lib\\cmake\\SPIRVTargets.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\armeabi-v7a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\ncnn-20210322-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn-release.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Release-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\.cxx\\cmake\\release\\armeabi-v7a\" yolov5ncnn",
+      "buildType": "release",
+      "toolchain": "2807397340",
+      "abi": "armeabi-v7a",
+      "artifactName": "yolov5ncnn",
+      "files": [
+        {
+          "src": "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\src\\main\\jni\\yolov5ncnn_jni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\android_final\\mask-android-yolov5-picture - WIFI\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libyolov5ncnn.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "2807397340": {
+      "cppCompilerExecutable": "C:\\Users\\WHBen\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
